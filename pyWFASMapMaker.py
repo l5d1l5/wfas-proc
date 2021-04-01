@@ -118,7 +118,7 @@ def WFASMakeMapImage(url,outFile="",top = 47 , left = -126, right = -65,
     cmap = ListedColormap(colors)
     norm = BoundaryNorm(class_bins,len(colors))
     plt.switch_backend('agg')
-    fig = plt.figure(figsize=(10,10))
+    fig = plt.figure(figsize=(10,7))
     ax = plt.axes(projection=ccrs.epsg(3857))
    
     im = clipped.plot(ax=ax,cmap=cmap,  norm=norm, add_colorbar=False , transform=ccrs.PlateCarree(), label="Test")
