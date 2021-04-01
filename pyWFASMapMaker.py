@@ -160,7 +160,7 @@ def WFASMakeMapImage(url,outFile="",top = 47 , left = -126, right = -65,
         cb = plt.colorbar(im, ticks=class_bins,orientation="horizontal",pad=0.01) #, pad=0.15)
         cb.set_label("USFS Wildland Fire Assessment System (WFAS)", size='large',weight='bold')
         cb.ax.tick_params(labelsize='large')
-    if(product == "herbaceous"):
+    if(product == "herbaceous" or product == "woody_fuel"):
         cb = plt.colorbar(im, ticks=class_bins,orientation="horizontal",pad=0.01) #, pad=0.15)
         
         cb.set_label("USFS Wildland Fire Assessment System (WFAS)", size='large',weight='bold')
