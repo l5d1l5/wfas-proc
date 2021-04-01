@@ -1,0 +1,6 @@
+shapely
+fiona
+xarray
+rioxarray
+descartes
+shutils

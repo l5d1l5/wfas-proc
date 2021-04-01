@@ -1,0 +1,8 @@
+https://naciscdn.org/naturalearth/110m/physical/ne_110m_ocean.zip
+https://naciscdn.org/naturalearth/110m/cultural/ne_110m_admin_0_boundary_lines_land.zip
+https://naciscdn.org/naturalearth/110m/physical/ne_110m_lakes.zip
+https://naciscdn.org/naturalearth/110m/physical/ne_110m_coastline.zip
+https://naciscdn.org/naturalearth/50m/physical/ne_50m_ocean.zip
+https://naciscdn.org/naturalearth/50m/cultural/ne_50m_admin_0_boundary_lines_land.zip
+https://naciscdn.org/naturalearth/50m/physical/ne_50m_lakes.zip
+https://naciscdn.org/naturalearth/50m/physical/ne_50m_coastline.zip
